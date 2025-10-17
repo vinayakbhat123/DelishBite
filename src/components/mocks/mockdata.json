@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "title": "Spice Garden",
+    "cuisine": [
+        "Indian",
+        "South Indian"
+    ],
+    "address": "123 MG Road, Bengaluru",
+    "rating": 4.5,
+    "deliveryTime": "30-40 mins",
+    "priceRange": "₹300 for two",
+    "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg"
+}

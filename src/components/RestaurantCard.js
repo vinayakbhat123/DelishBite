@@ -1,9 +1,9 @@
 const RestaurantCard = ({ resData }) => {
-  const { title, name, cuisine, rating, image, deliveryTime } = resData;
+  console.log(resData);
+  const { title,  cuisine, rating, image, deliveryTime } = resData;
   return (
     <div className="res-card bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition-all duration-300 transform hover:scale-105 flex flex-col">
-      <img  className="food-image w-full h-56 object-cover"  alt={title}   src={image}  
-      />
+      <img  className="food-image w-full h-56 object-cover"  alt={title}   src={image}  />
       <div className="p-5 flex flex-col flex-grow">
         <h2 className="res-title text-2xl font-extrabold mb-2 text-gray-900 line-clamp-1">{title}</h2>
         <h3 className="res-cuisine text-gray-600 mb-2 text-sm line-clamp-2">{cuisine.join(", ")}</h3>

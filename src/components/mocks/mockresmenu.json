@@ -1,0 +1,1579 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "title": "Spice Garden",
+            "cuisine": [
+                "Indian",
+                "South Indian"
+            ],
+            "address": "123 MG Road, Bengaluru",
+            "rating": 4.5,
+            "deliveryTime": "30-40 mins",
+            "priceRange": "₹300 for two",
+            "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+            "menu": [
+                {
+                    "name": "Paneer Butter Masala",
+                    "price": "₹220",
+                    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+                    "ingredients": [
+                        "250g paneer, cubed",
+                        "2 tbsp butter",
+                        "1 large onion, chopped",
+                        "2 tomatoes, pureed",
+                        "1/2 cup cream",
+                        "1 tsp ginger-garlic paste",
+                        "1 tsp garam masala",
+                        "Salt to taste"
+                    ],
+                    "instructions": [
+                        "Heat butter in a pan and sauté onions until golden.",
+                        "Add ginger-garlic paste and tomato puree; cook until oil separates.",
+                        "Add garam masala, salt and paneer cubes; simmer 5 minutes.",
+                        "Stir in cream, cook 2 more minutes and serve hot with naan or rice."
+                    ]
+                },
+                {
+                    "name": "Masala Dosa",
+                    "price": "₹140",
+                    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+                    "ingredients": [
+                        "1 dosa batter (fermented)",
+                        "3 potatoes, boiled and mashed",
+                        "1 onion, sliced",
+                        "1 tsp mustard seeds",
+                        "1 tsp turmeric",
+                        "1 tbsp oil",
+                        "Salt to taste",
+                        "Curry leaves"
+                    ],
+                    "instructions": [
+                        "Heat oil, crackle mustard seeds, add curry leaves and onions; sauté until soft.",
+                        "Add turmeric and mashed potatoes, mix and season with salt.",
+                        "Spread dosa batter thin on a hot griddle, place potato filling, fold and serve with chutney and sambar."
+                    ]
+                },
+                {
+                    "name": "Chettinad Chicken Curry",
+                    "price": "₹260",
+                    "image": "https://images.pexels.com/photos/11178664/pexels-photo-11178664.jpeg",
+                    "ingredients": [
+                        "500g chicken pieces",
+                        "2 onions, finely chopped",
+                        "2 tomatoes, chopped",
+                        "2 tsp Chettinad masala",
+                        "1 tsp ginger-garlic paste",
+                        "1/2 cup coconut milk",
+                        "Salt and oil"
+                    ],
+                    "instructions": [
+                        "Sear chicken pieces in oil and set aside.",
+                        "Sauté onions until golden, add ginger-garlic and tomatoes; cook to a paste.",
+                        "Add Chettinad masala, chicken and some water; simmer until chicken is cooked.",
+                        "Finish with coconut milk, simmer 2 minutes and serve with rice."
+                    ]
+                },
+                {
+                    "name": "Medu Vada (Lentil Donut)",
+                    "price": "₹80",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "1 cup urad dal (split white lentils)",
+                        "1 green chili, chopped",
+                        "1 tsp ginger, grated",
+                        "Salt to taste",
+                        "Oil for deep frying",
+                        "Curry leaves and chopped onion (optional)"
+                    ],
+                    "instructions": [
+                        "Soak urad dal 4 hours and grind to a thick batter with air incorporated.",
+                        "Mix chili, ginger, onion and salt into batter.",
+                        "Shape into doughnut rings and deep fry until golden brown.",
+                        "Serve with coconut chutney and sambar."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Urban Biryani",
+            "cuisine": [
+                "Biryani",
+                "Mughlai"
+            ],
+            "address": "45 Residency Road, Bengaluru",
+            "rating": 4.2,
+            "deliveryTime": "35-45 mins",
+            "priceRange": "₹400 for two",
+            "image": "https://images.pexels.com/photos/11178664/pexels-photo-11178664.jpeg",
+            "menu": [
+                {
+                    "name": "Hyderabadi Chicken Biryani",
+                    "price": "₹320",
+                    "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+                    "ingredients": [
+                        "400g chicken pieces",
+                        "2 cups basmati rice",
+                        "2 onions, thinly sliced",
+                        "1 cup yogurt",
+                        "2 tbsp biryani masala",
+                        "Saffron strands soaked in 2 tbsp milk",
+                        "Mint and coriander leaves",
+                        "Ghee and oil"
+                    ],
+                    "instructions": [
+                        "Marinate chicken with yogurt, biryani masala and herbs for 1 hour.",
+                        "Par-cook rice with salt and whole spices until 70% done.",
+                        "Layer rice and chicken in a heavy pot, top with saffron milk, ghee and fried onions.",
+                        "Dum-cook on low heat 25-30 minutes until fully cooked; fluff and serve with raita."
+                    ]
+                },
+                {
+                    "name": "Mutton Korma",
+                    "price": "₹360",
+                    "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+                    "ingredients": [
+                        "500g mutton pieces",
+                        "2 onions, blended to paste",
+                        "1/4 cup yogurt",
+                        "2 tbsp korma masala",
+                        "1 tsp ginger-garlic paste",
+                        "Salt and oil"
+                    ],
+                    "instructions": [
+                        "Sear mutton pieces and set aside.",
+                        "Cook onion paste with ginger-garlic until oil separates.",
+                        "Add mutton, korma masala and water; simmer until tender.",
+                        "Stir in yogurt gently and cook 5 more minutes; garnish and serve."
+                    ]
+                },
+                {
+                    "name": "Egg Biryani (Half-plate)",
+                    "price": "₹180",
+                    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+                    "ingredients": [
+                        "3 boiled eggs",
+                        "1.5 cups basmati rice",
+                        "2 onions, fried",
+                        "2 tbsp biryani masala",
+                        "Mint, coriander",
+                        "Ghee"
+                    ],
+                    "instructions": [
+                        "Fry onions until crisp and set aside.",
+                        "Layer par-cooked rice with halved eggs, fried onions and biryani masala.",
+                        "Dum-cook 15-20 minutes on low heat until done.",
+                        "Serve hot with raita and salad."
+                    ]
+                },
+                {
+                    "name": "Raita (Cucumber & Mint)",
+                    "price": "₹70",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "1 cup yogurt",
+                        "1/2 cup grated cucumber",
+                        "Fresh mint leaves, chopped",
+                        "Salt and roasted cumin powder"
+                    ],
+                    "instructions": [
+                        "Whisk yogurt until smooth, fold in cucumber and mint.",
+                        "Season with salt and roasted cumin powder.",
+                        "Chill briefly and serve alongside biryani."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Green Bowl",
+            "cuisine": [
+                "Healthy",
+                "Salads"
+            ],
+            "address": "12 Church Street, Bengaluru",
+            "rating": 4,
+            "deliveryTime": "20-30 mins",
+            "priceRange": "₹250 for two",
+            "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+            "menu": [
+                {
+                    "name": "Quinoa & Roasted Veg Bowl",
+                    "price": "₹220",
+                    "image": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg",
+                    "ingredients": [
+                        "1 cup cooked quinoa",
+                        "Roasted bell peppers, zucchini, carrot",
+                        "Handful spinach",
+                        "2 tbsp hummus",
+                        "Lemon-tahini dressing"
+                    ],
+                    "instructions": [
+                        "Roast veggies with olive oil, salt and pepper until tender.",
+                        "Assemble quinoa, greens and roasted veggies in a bowl.",
+                        "Top with hummus and drizzle lemon-tahini dressing; serve."
+                    ]
+                },
+                {
+                    "name": "Kale Caesar Salad (Veg)",
+                    "price": "₹190",
+                    "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+                    "ingredients": [
+                        "2 cups chopped kale",
+                        "Croutons",
+                        "Parmesan shavings",
+                        "Caesar dressing (veg)",
+                        "Lemon wedge"
+                    ],
+                    "instructions": [
+                        "Massage kale with a little olive oil and salt to soften.",
+                        "Toss kale with croutons, parmesan and dressing.",
+                        "Squeeze lemon over salad and serve chilled."
+                    ]
+                },
+                {
+                    "name": "Avocado & Chickpea Wrap",
+                    "price": "₹160",
+                    "image": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg",
+                    "ingredients": [
+                        "Whole wheat wrap",
+                        "1/2 avocado, sliced",
+                        "1/2 cup mashed chickpeas",
+                        "Lettuce and tomato slices",
+                        "Lemon, salt and pepper"
+                    ],
+                    "instructions": [
+                        "Mix mashed chickpeas with lemon, salt and pepper.",
+                        "Spread on wrap, add avocado, lettuce and tomato.",
+                        "Roll tightly, slice in half and serve."
+                    ]
+                },
+                {
+                    "name": "Green Smoothie (Spinach & Apple)",
+                    "price": "₹130",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "1 cup spinach",
+                        "1 apple, chopped",
+                        "1 banana",
+                        "1 cup almond milk",
+                        "Honey to taste"
+                    ],
+                    "instructions": [
+                        "Blend all ingredients until smooth.",
+                        "Adjust sweetness with honey and serve chilled."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Royal Tandoor",
+            "cuisine": [
+                "North Indian",
+                "Kebabs"
+            ],
+            "address": "87 Brigade Road, Bengaluru",
+            "rating": 4.4,
+            "deliveryTime": "30-40 mins",
+            "priceRange": "₹350 for two",
+            "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+            "menu": [
+                {
+                    "name": "Tandoori Chicken (Half)",
+                    "price": "₹280",
+                    "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+                    "ingredients": [
+                        "500g chicken pieces",
+                        "1 cup yogurt",
+                        "2 tbsp tandoori masala",
+                        "1 tsp ginger-garlic paste",
+                        "Lemon and oil"
+                    ],
+                    "instructions": [
+                        "Marinate chicken in yogurt, spices and lemon for at least 2 hours.",
+                        "Grill on high heat (tandoor or oven) until charred and cooked through.",
+                        "Serve with mint chutney and sliced onions."
+                    ]
+                },
+                {
+                    "name": "Paneer Tikka",
+                    "price": "₹220",
+                    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+                    "ingredients": [
+                        "250g paneer cubes",
+                        "1/2 cup yogurt",
+                        "1 tbsp tikka masala",
+                        "Bell peppers and onion chunks",
+                        "Skewers and oil"
+                    ],
+                    "instructions": [
+                        "Marinate paneer and veggies in yogurt and tikka masala for 30 minutes.",
+                        "Thread onto skewers and grill until edges are charred.",
+                        "Serve hot with lemon and chutney."
+                    ]
+                },
+                {
+                    "name": "Reshmi Kebab",
+                    "price": "₹260",
+                    "image": "https://images.pexels.com/photos/3577566/pexels-photo-3577566.jpeg",
+                    "ingredients": [
+                        "300g minced chicken",
+                        "2 tbsp cream",
+                        "1 tbsp ginger-garlic paste",
+                        "1 tsp garam masala",
+                        "Salt and oil"
+                    ],
+                    "instructions": [
+                        "Mix all ingredients and refrigerate 30 minutes.",
+                        "Shape onto skewers and grill until cooked and slightly charred.",
+                        "Serve with green chutney."
+                    ]
+                },
+                {
+                    "name": "Garlic Naan",
+                    "price": "₹60",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "2 cups all-purpose flour",
+                        "Yeast and sugar",
+                        "Yogurt",
+                        "Minced garlic",
+                        "Butter and salt"
+                    ],
+                    "instructions": [
+                        "Make a soft dough with flour, yogurt and yeast; rest 1 hour.",
+                        "Roll into naans, brush with garlic butter and bake or char on skillet.",
+                        "Serve hot with kebabs and curries."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Noodle Hub",
+            "cuisine": [
+                "Chinese",
+                "Thai"
+            ],
+            "address": "98 Koramangala, Bengaluru",
+            "rating": 4.1,
+            "deliveryTime": "25-35 mins",
+            "priceRange": "₹280 for two",
+            "image": "https://images.pexels.com/photos/3577566/pexels-photo-3577566.jpeg",
+            "menu": [
+                {
+                    "name": "Vegetable Chow Mein",
+                    "price": "₹160",
+                    "image": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg",
+                    "ingredients": [
+                        "200g egg or veg noodles",
+                        "Mixed vegetables (carrot, capsicum, cabbage)",
+                        "2 tbsp soy sauce",
+                        "1 tsp sesame oil",
+                        "Green onions"
+                    ],
+                    "instructions": [
+                        "Boil noodles until al dente; drain and toss with a little oil.",
+                        "Stir-fry vegetables, add noodles and sauces; toss quickly on high heat.",
+                        "Garnish with green onions and serve."
+                    ]
+                },
+                {
+                    "name": "Chicken Pad Thai",
+                    "price": "₹260",
+                    "image": "https://images.pexels.com/photos/1640773/pexels-photo-1640773.jpeg",
+                    "ingredients": [
+                        "200g rice noodles",
+                        "150g chicken strips",
+                        "2 eggs",
+                        "Pad Thai sauce (tamarind, fish sauce, palm sugar)",
+                        "Bean sprouts and peanuts"
+                    ],
+                    "instructions": [
+                        "Soak rice noodles until soft.",
+                        "Stir-fry chicken, push aside and scramble eggs.",
+                        "Add noodles, sauce, bean sprouts and toss; finish with crushed peanuts."
+                    ]
+                },
+                {
+                    "name": "Schezwan Hot Garlic Noodles",
+                    "price": "₹180",
+                    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+                    "ingredients": [
+                        "Noodles",
+                        "Szechuan sauce",
+                        "Garlic and chili flakes",
+                        "Mixed veggies",
+                        "Spring onions"
+                    ],
+                    "instructions": [
+                        "Cook noodles and set aside.",
+                        "Stir-fry garlic and veggies, add Szechuan sauce and noodles.",
+                        "Toss well and garnish with spring onions."
+                    ]
+                },
+                {
+                    "name": "Tom Yum Soup (Shrimp)",
+                    "price": "₹210",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "8-10 prawns",
+                        "Lemongrass, kaffir lime leaves",
+                        "Mushrooms",
+                        "Fish sauce and lime juice",
+                        "Chili paste"
+                    ],
+                    "instructions": [
+                        "Boil broth with lemongrass and lime leaves for 5 minutes.",
+                        "Add mushrooms and prawns; cook until prawns turn pink.",
+                        "Season with fish sauce, lime juice and chili; serve hot."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Pizza House",
+            "cuisine": [
+                "Italian",
+                "Pizza"
+            ],
+            "address": "14 Indiranagar, Bengaluru",
+            "rating": 4.3,
+            "deliveryTime": "20-30 mins",
+            "priceRange": "₹500 for two",
+            "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+            "menu": [
+                {
+                    "name": "Margherita Pizza (Medium)",
+                    "price": "₹320",
+                    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+                    "ingredients": [
+                        "Pizza dough",
+                        "Tomato sauce",
+                        "Fresh mozzarella",
+                        "Fresh basil leaves",
+                        "Olive oil and salt"
+                    ],
+                    "instructions": [
+                        "Stretch dough to medium size, spread tomato sauce.",
+                        "Top with mozzarella and basil, drizzle olive oil.",
+                        "Bake in hot oven 10-12 minutes until crust is golden."
+                    ]
+                },
+                {
+                    "name": "Pepperoni Feast",
+                    "price": "₹420",
+                    "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+                    "ingredients": [
+                        "Pizza dough",
+                        "Tomato sauce",
+                        "Mozzarella",
+                        "Pepperoni slices",
+                        "Oregano"
+                    ],
+                    "instructions": [
+                        "Assemble sauce, cheese and pepperoni on dough.",
+                        "Bake until cheese bubbles and crust browns.",
+                        "Slice and serve hot."
+                    ]
+                },
+                {
+                    "name": "Quattro Formaggi",
+                    "price": "₹450",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Pizza base",
+                        "Mozzarella, gorgonzola, parmesan, ricotta",
+                        "Olive oil"
+                    ],
+                    "instructions": [
+                        "Spread cheeses evenly over base.",
+                        "Bake until cheeses are melted and golden.",
+                        "Drizzle oil and serve immediately."
+                    ]
+                },
+                {
+                    "name": "Garlic Bread (Cheesy)",
+                    "price": "₹120",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Baguette",
+                        "Butter, garlic",
+                        "Mozzarella",
+                        "Parsley"
+                    ],
+                    "instructions": [
+                        "Mix butter and crushed garlic; spread on sliced baguette.",
+                        "Top with mozzarella and bake until cheese melts.",
+                        "Garnish with parsley and serve warm."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Burger Bay",
+            "cuisine": [
+                "American",
+                "Fast Food"
+            ],
+            "address": "76 Jayanagar, Bengaluru",
+            "rating": 4,
+            "deliveryTime": "15-25 mins",
+            "priceRange": "₹300 for two",
+            "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg",
+            "menu": [
+                {
+                    "name": "Classic Beef Burger",
+                    "price": "₹220",
+                    "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg",
+                    "ingredients": [
+                        "200g beef patty",
+                        "Burger bun",
+                        "Lettuce, tomato, onion",
+                        "Cheddar slice",
+                        "Ketchup and mayo"
+                    ],
+                    "instructions": [
+                        "Season and grill patty to desired doneness.",
+                        "Toast bun, assemble with lettuce, patty, cheese and sauces.",
+                        "Serve with fries."
+                    ]
+                },
+                {
+                    "name": "Veggie Burger",
+                    "price": "₹180",
+                    "image": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg",
+                    "ingredients": [
+                        "Veg patty (bean or potato)",
+                        "Burger bun",
+                        "Lettuce, tomato",
+                        "Pickles and mayo"
+                    ],
+                    "instructions": [
+                        "Cook veggie patty until crisp.",
+                        "Assemble on toasted bun with toppings and serve."
+                    ]
+                },
+                {
+                    "name": "Chicken BBQ Burger",
+                    "price": "₹200",
+                    "image": "https://images.pexels.com/photos/3577566/pexels-photo-3577566.jpeg",
+                    "ingredients": [
+                        "Grilled chicken patty",
+                        "BBQ sauce",
+                        "Onion ring",
+                        "Coleslaw"
+                    ],
+                    "instructions": [
+                        "Grill chicken with BBQ glaze.",
+                        "Build burger with coleslaw and onion ring for crunch.",
+                        "Serve hot with dips."
+                    ]
+                },
+                {
+                    "name": "Fries (Seasoned)",
+                    "price": "₹90",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Potatoes",
+                        "Salt",
+                        "Seasoning powder"
+                    ],
+                    "instructions": [
+                        "Cut potatoes, soak, dry and deep fry until crisp.",
+                        "Toss with seasoning and serve immediately."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Sushi Street",
+            "cuisine": [
+                "Japanese",
+                "Sushi"
+            ],
+            "address": "44 Whitefield, Bengaluru",
+            "rating": 4.6,
+            "deliveryTime": "35-45 mins",
+            "priceRange": "₹600 for two",
+            "image": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg",
+            "menu": [
+                {
+                    "name": "California Roll (8 pcs)",
+                    "price": "₹420",
+                    "image": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg",
+                    "ingredients": [
+                        "Sushi rice",
+                        "Nori sheets",
+                        "Crabstick or imitation crab",
+                        "Avocado",
+                        "Cucumber",
+                        "Sesame seeds"
+                    ],
+                    "instructions": [
+                        "Spread sushi rice on nori, add crab, avocado and cucumber.",
+                        "Roll tightly with bamboo mat, slice into 8 pieces.",
+                        "Sprinkle sesame seeds and serve with soy sauce and wasabi."
+                    ]
+                },
+                {
+                    "name": "Salmon Nigiri (4 pcs)",
+                    "price": "₹380",
+                    "image": "https://images.pexels.com/photos/1640773/pexels-photo-1640773.jpeg",
+                    "ingredients": [
+                        "Sushi-grade salmon slices",
+                        "Sushi rice",
+                        "Wasabi and soy"
+                    ],
+                    "instructions": [
+                        "Shape small oval of rice, brush with a little wasabi.",
+                        "Top with thin slice of salmon and press gently.",
+                        "Serve immediately with soy sauce."
+                    ]
+                },
+                {
+                    "name": "Tempura Prawns (6 pcs)",
+                    "price": "₹320",
+                    "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+                    "ingredients": [
+                        "6 prawns, deveined",
+                        "Tempura batter mix",
+                        "Oil for frying",
+                        "Dipping sauce"
+                    ],
+                    "instructions": [
+                        "Coat prawns in tempura batter and deep fry until crisp.",
+                        "Drain on paper towel and serve with dipping sauce."
+                    ]
+                },
+                {
+                    "name": "Miso Soup",
+                    "price": "₹120",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Dashi or vegetable stock",
+                        "Miso paste",
+                        "Tofu cubes",
+                        "Seaweed and spring onions"
+                    ],
+                    "instructions": [
+                        "Heat stock, add tofu and seaweed.",
+                        "Turn off heat and whisk in miso paste; garnish with spring onions.",
+                        "Serve warm."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Taco Town",
+            "cuisine": [
+                "Mexican",
+                "Tacos"
+            ],
+            "address": "9 HSR Layout, Bengaluru",
+            "rating": 4.1,
+            "deliveryTime": "25-35 mins",
+            "priceRange": "₹350 for two",
+            "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+            "menu": [
+                {
+                    "name": "Chicken Tacos (3 pcs)",
+                    "price": "₹220",
+                    "image": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg",
+                    "ingredients": [
+                        "Soft corn tortillas",
+                        "Shredded chicken",
+                        "Onion, cilantro",
+                        "Salsa and lime",
+                        "Mexican spices"
+                    ],
+                    "instructions": [
+                        "Warm tortillas, fill with spiced shredded chicken.",
+                        "Top with onion, cilantro and salsa.",
+                        "Serve with lime wedges."
+                    ]
+                },
+                {
+                    "name": "Beef Burrito",
+                    "price": "₹260",
+                    "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+                    "ingredients": [
+                        "Large tortilla",
+                        "Seasoned beef",
+                        "Rice and beans",
+                        "Cheese and salsa"
+                    ],
+                    "instructions": [
+                        "Layer beef, rice, beans and cheese on tortilla.",
+                        "Roll tightly and grill seam-side down for 1-2 minutes.",
+                        "Slice and serve with salsa."
+                    ]
+                },
+                {
+                    "name": "Guacamole & Chips",
+                    "price": "₹140",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "2 avocados",
+                        "Tomato, onion, cilantro",
+                        "Lime juice",
+                        "Salt and chili flakes",
+                        "Tortilla chips"
+                    ],
+                    "instructions": [
+                        "Mash avocados, mix in chopped veggies and lime juice.",
+                        "Season and serve with tortilla chips."
+                    ]
+                },
+                {
+                    "name": "Churros (Sweet)",
+                    "price": "₹130",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Flour, water and sugar",
+                        "Oil for frying",
+                        "Cinnamon-sugar coating",
+                        "Chocolate dip"
+                    ],
+                    "instructions": [
+                        "Pipe churro dough into hot oil and fry until golden.",
+                        "Roll in cinnamon-sugar and serve with chocolate dip."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "The Grill Shack",
+            "cuisine": [
+                "Barbecue",
+                "Steaks"
+            ],
+            "address": "33 Malleshwaram, Bengaluru",
+            "rating": 4.5,
+            "deliveryTime": "40-50 mins",
+            "priceRange": "₹700 for two",
+            "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+            "menu": [
+                {
+                    "name": "Ribeye Steak (300g)",
+                    "price": "₹620",
+                    "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+                    "ingredients": [
+                        "300g ribeye steak",
+                        "Salt and cracked pepper",
+                        "Butter and rosemary"
+                    ],
+                    "instructions": [
+                        "Season steak generously and sear on high heat 3-4 minutes each side.",
+                        "Finish in oven if needed and baste with butter and rosemary.",
+                        "Rest 5 minutes before slicing and serving."
+                    ]
+                },
+                {
+                    "name": "BBQ Pork Ribs (Full)",
+                    "price": "₹700",
+                    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+                    "ingredients": [
+                        "1kg pork ribs",
+                        "BBQ rub",
+                        "BBQ sauce",
+                        "Honey glaze"
+                    ],
+                    "instructions": [
+                        "Rub ribs with spice mix and slow-cook until tender.",
+                        "Brush with BBQ sauce and char on grill for glaze.",
+                        "Slice between bones and serve."
+                    ]
+                },
+                {
+                    "name": "Grilled Mushroom Skewers",
+                    "price": "₹240",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Button mushrooms",
+                        "Olive oil",
+                        "Garlic and herbs",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Marinate mushrooms in oil, garlic and herbs.",
+                        "Skewer and grill until tender and slightly charred.",
+                        "Serve with herb dip."
+                    ]
+                },
+                {
+                    "name": "Coleslaw & Corn",
+                    "price": "₹160",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Cabbage and carrot",
+                        "Mayonnaise dressing",
+                        "Grilled corn with butter",
+                        "Salt and pepper"
+                    ],
+                    "instructions": [
+                        "Mix shredded cabbage and carrot with mayo dressing.",
+                        "Grill corn and brush with butter.",
+                        "Serve as sides to steak and ribs."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Curry Palace",
+            "cuisine": [
+                "Indian",
+                "Curries"
+            ],
+            "address": "15 Basavanagudi, Bengaluru",
+            "rating": 4.3,
+            "deliveryTime": "30-40 mins",
+            "priceRange": "₹320 for two",
+            "image": "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg",
+            "menu": [
+                {
+                    "name": "Butter Chicken",
+                    "price": "₹280",
+                    "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+                    "ingredients": [
+                        "500g chicken",
+                        "Butter and cream",
+                        "Tomato puree",
+                        "Kasuri methi and garam masala",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Sear chicken, cook tomato-onion base until oil separates.",
+                        "Add spices and chicken, simmer until cooked.",
+                        "Finish with butter and cream; garnish with kasuri methi."
+                    ]
+                },
+                {
+                    "name": "Dal Tadka",
+                    "price": "₹120",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "1 cup toor dal",
+                        "Onion, tomato",
+                        "Ghee, mustard seeds",
+                        "Garlic and dried red chillies"
+                    ],
+                    "instructions": [
+                        "Cook dal with turmeric until soft.",
+                        "Prepare tadka with ghee, garlic and spices; pour over dal.",
+                        "Stir well and serve hot with rice."
+                    ]
+                },
+                {
+                    "name": "Aloo Gobi",
+                    "price": "₹140",
+                    "image": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg",
+                    "ingredients": [
+                        "Potato and cauliflower",
+                        "Tomato and onion",
+                        "Turmeric, cumin and coriander powder",
+                        "Salt and oil"
+                    ],
+                    "instructions": [
+                        "Saute onions and tomatoes, add spices.",
+                        "Add potato and cauliflower, cover and cook until tender.",
+                        "Garnish with coriander and serve."
+                    ]
+                },
+                {
+                    "name": "Jeera Rice",
+                    "price": "₹90",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Basmati rice",
+                        "Cumin seeds",
+                        "Ghee and salt"
+                    ],
+                    "instructions": [
+                        "Heat ghee, fry cumin seeds briefly.",
+                        "Add soaked rice and water, cook until done.",
+                        "Fluff with fork and serve with curries."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Falafel Factory",
+            "cuisine": [
+                "Mediterranean",
+                "Falafel"
+            ],
+            "address": "27 Koramangala, Bengaluru",
+            "rating": 4,
+            "deliveryTime": "20-30 mins",
+            "priceRange": "₹250 for two",
+            "image": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg",
+            "menu": [
+                {
+                    "name": "Classic Falafel Wrap",
+                    "price": "₹160",
+                    "image": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg",
+                    "ingredients": [
+                        "Falafel balls (chickpea)",
+                        "Pita or wrap",
+                        "Tahini sauce",
+                        "Lettuce, tomato, pickles"
+                    ],
+                    "instructions": [
+                        "Prepare falafel and fry until crisp.",
+                        "Warm pita, fill with falafel, veggies and tahini.",
+                        "Serve immediately."
+                    ]
+                },
+                {
+                    "name": "Hummus Platter",
+                    "price": "₹140",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Chickpeas",
+                        "Tahini",
+                        "Lemon and olive oil",
+                        "Paprika and parsley"
+                    ],
+                    "instructions": [
+                        "Blend chickpeas with tahini and lemon to smooth paste.",
+                        "Drizzle olive oil and sprinkle paprika and parsley.",
+                        "Serve with warm pita."
+                    ]
+                },
+                {
+                    "name": "Tabbouleh Salad",
+                    "price": "₹150",
+                    "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+                    "ingredients": [
+                        "Bulgur wheat",
+                        "Parsley, mint",
+                        "Tomato and onion",
+                        "Lemon juice and olive oil"
+                    ],
+                    "instructions": [
+                        "Soak bulgur until tender.",
+                        "Mix with finely chopped parsley, mint and tomatoes.",
+                        "Dress with lemon and olive oil and serve chilled."
+                    ]
+                },
+                {
+                    "name": "Baba Ganoush",
+                    "price": "₹130",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Roasted eggplant",
+                        "Tahini",
+                        "Garlic",
+                        "Lemon juice and olive oil"
+                    ],
+                    "instructions": [
+                        "Scoop roasted eggplant flesh and blend with tahini and garlic.",
+                        "Season, drizzle olive oil and serve with pita."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Dessert Delight",
+            "cuisine": [
+                "Desserts",
+                "Ice Cream"
+            ],
+            "address": "19 MG Road, Bengaluru",
+            "rating": 4.7,
+            "deliveryTime": "15-20 mins",
+            "priceRange": "₹200 for two",
+            "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+            "menu": [
+                {
+                    "name": "Chocolate Lava Cake",
+                    "price": "₹180",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Dark chocolate",
+                        "Butter",
+                        "Eggs",
+                        "Sugar and flour",
+                        "Vanilla"
+                    ],
+                    "instructions": [
+                        "Melt chocolate and butter, whisk with eggs and sugar.",
+                        "Fold in flour and pour into greased molds.",
+                        "Bake 10-12 minutes until edges are set but center is molten; serve warm."
+                    ]
+                },
+                {
+                    "name": "Vanilla Bean Ice Cream (Scoop)",
+                    "price": "₹120",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Milk and cream",
+                        "Vanilla beans or extract",
+                        "Sugar",
+                        "Egg yolks (optional)"
+                    ],
+                    "instructions": [
+                        "Prepare custard base with milk, cream and yolks if using.",
+                        "Churn in ice cream machine or freeze with periodic stirring.",
+                        "Scoop and serve with toppings."
+                    ]
+                },
+                {
+                    "name": "Gulab Jamun (3 pcs)",
+                    "price": "₹140",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Khoya or milk powder",
+                        "Flour and baking powder",
+                        "Sugar syrup with cardamom",
+                        "Ghee for frying"
+                    ],
+                    "instructions": [
+                        "Knead dough, shape small balls and deep fry until golden.",
+                        "Soak in warm sugar syrup for 30 minutes.",
+                        "Serve warm or chilled."
+                    ]
+                },
+                {
+                    "name": "Fruit Parfait",
+                    "price": "₹150",
+                    "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+                    "ingredients": [
+                        "Yogurt",
+                        "Mixed seasonal fruits",
+                        "Granola",
+                        "Honey"
+                    ],
+                    "instructions": [
+                        "Layer yogurt, fruits and granola in a glass.",
+                        "Drizzle honey on top and serve chilled."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Breakfast Bay",
+            "cuisine": [
+                "Breakfast",
+                "Brunch"
+            ],
+            "address": "6 Indiranagar, Bengaluru",
+            "rating": 4.4,
+            "deliveryTime": "15-25 mins",
+            "priceRange": "₹250 for two",
+            "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+            "menu": [
+                {
+                    "name": "Avocado Toast",
+                    "price": "₹160",
+                    "image": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg",
+                    "ingredients": [
+                        "Sourdough bread",
+                        "1 ripe avocado",
+                        "Lemon, salt and chili flakes",
+                        "Olive oil"
+                    ],
+                    "instructions": [
+                        "Toast bread, mash avocado with lemon and seasoning.",
+                        "Spread on toast, drizzle olive oil and finish with chili flakes.",
+                        "Serve immediately."
+                    ]
+                },
+                {
+                    "name": "Eggs Benedict",
+                    "price": "₹320",
+                    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+                    "ingredients": [
+                        "English muffins",
+                        "Poached eggs",
+                        "Hollandaise sauce",
+                        "Canadian bacon or smoked salmon"
+                    ],
+                    "instructions": [
+                        "Poach eggs and toast muffins.",
+                        "Place bacon or salmon on muffin, top with egg and hollandaise.",
+                        "Serve warm."
+                    ]
+                },
+                {
+                    "name": "Pancake Stack (3 pcs)",
+                    "price": "₹200",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Flour, milk, egg",
+                        "Baking powder",
+                        "Maple syrup and butter"
+                    ],
+                    "instructions": [
+                        "Prepare batter, cook pancakes on skillet until golden.",
+                        "Stack, top with butter and maple syrup.",
+                        "Serve hot."
+                    ]
+                },
+                {
+                    "name": "Fruit & Yogurt Bowl",
+                    "price": "₹140",
+                    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+                    "ingredients": [
+                        "Greek yogurt",
+                        "Seasonal fruits",
+                        "Honey and granola"
+                    ],
+                    "instructions": [
+                        "Spoon yogurt into bowl, top with fruits and granola.",
+                        "Drizzle honey and serve chilled."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Wrap & Roll",
+            "cuisine": [
+                "Fast Food",
+                "Rolls"
+            ],
+            "address": "55 Jayanagar, Bengaluru",
+            "rating": 4.1,
+            "deliveryTime": "20-30 mins",
+            "priceRange": "₹220 for two",
+            "image": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg",
+            "menu": [
+                {
+                    "name": "Chicken Shawarma Wrap",
+                    "price": "₹180",
+                    "image": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg",
+                    "ingredients": [
+                        "Sliced grilled chicken",
+                        "Flatbread",
+                        "Garlic sauce",
+                        "Lettuce and pickles"
+                    ],
+                    "instructions": [
+                        "Assemble chicken, sauce and veggies in flatbread.",
+                        "Roll tightly and grill for 30 seconds to seal.",
+                        "Serve hot with fries."
+                    ]
+                },
+                {
+                    "name": "Paneer Tikka Roll",
+                    "price": "₹160",
+                    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+                    "ingredients": [
+                        "Paneer cubes",
+                        "Tikka masala",
+                        "Roll bread",
+                        "Onion and chutney"
+                    ],
+                    "instructions": [
+                        "Marinate and grill paneer, place in roll with onions and chutney.",
+                        "Wrap and serve warm."
+                    ]
+                },
+                {
+                    "name": "Veggie Roll (Spicy)",
+                    "price": "₹120",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Stir-fried mixed veggies",
+                        "Chili sauce",
+                        "Wrap bread"
+                    ],
+                    "instructions": [
+                        "Stir-fry veggies with spices, fill wrap and roll.",
+                        "Serve with chutney."
+                    ]
+                },
+                {
+                    "name": "Cheesy Potato Roll",
+                    "price": "₹140",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Mashed potato",
+                        "Grated cheese",
+                        "Chili flakes",
+                        "Wrap"
+                    ],
+                    "instructions": [
+                        "Mix mashed potato with seasoning and cheese.",
+                        "Fill wrap, grill until cheese melts and serve hot."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Veggie Corner",
+            "cuisine": [
+                "Vegetarian",
+                "Healthy"
+            ],
+            "address": "11 Whitefield, Bengaluru",
+            "rating": 4.2,
+            "deliveryTime": "25-35 mins",
+            "priceRange": "₹230 for two",
+            "image": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg",
+            "menu": [
+                {
+                    "name": "Grilled Veggie Panini",
+                    "price": "₹170",
+                    "image": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg",
+                    "ingredients": [
+                        "Ciabatta or panini bread",
+                        "Grilled zucchini, pepper and eggplant",
+                        "Pesto and mozzarella"
+                    ],
+                    "instructions": [
+                        "Layer grilled veggies and cheese on bread, grill in panini press.",
+                        "Serve hot with a side salad."
+                    ]
+                },
+                {
+                    "name": "Lentil & Beetroot Salad",
+                    "price": "₹160",
+                    "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+                    "ingredients": [
+                        "Cooked lentils",
+                        "Roasted beetroot",
+                        "Feta (optional)",
+                        "Vinaigrette"
+                    ],
+                    "instructions": [
+                        "Toss lentils with beetroot and dressing.",
+                        "Top with feta and serve chilled."
+                    ]
+                },
+                {
+                    "name": "Stuffed Bell Peppers",
+                    "price": "₹190",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Bell peppers",
+                        "Quinoa or rice",
+                        "Mixed vegetables and spices",
+                        "Cheese topping"
+                    ],
+                    "instructions": [
+                        "Stuff peppers with cooked quinoa and veggies.",
+                        "Bake until peppers are tender and top melts.",
+                        "Serve warm."
+                    ]
+                },
+                {
+                    "name": "Masala Oats Bowl",
+                    "price": "₹120",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Rolled oats",
+                        "Mixed vegetables",
+                        "Turmeric and spices",
+                        "Lemon"
+                    ],
+                    "instructions": [
+                        "Cook oats with vegetables and spices until done.",
+                        "Adjust seasoning and serve hot with a lemon wedge."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": "BBQ Nation Express",
+            "cuisine": [
+                "Barbecue",
+                "Buffet"
+            ],
+            "address": "78 Koramangala, Bengaluru",
+            "rating": 4.3,
+            "deliveryTime": "35-45 mins",
+            "priceRange": "₹550 for two",
+            "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+            "menu": [
+                {
+                    "name": "Grilled Chicken Platter",
+                    "price": "₹420",
+                    "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+                    "ingredients": [
+                        "Grilled chicken pieces",
+                        "BBQ glaze",
+                        "Salad and lemon"
+                    ],
+                    "instructions": [
+                        "Grill chicken with BBQ glaze until cooked.",
+                        "Arrange with salad and lemon; serve hot."
+                    ]
+                },
+                {
+                    "name": "Smoky Veg Skewers",
+                    "price": "₹240",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Bell peppers, mushroom, paneer chunks",
+                        "Marinade of spices and oil"
+                    ],
+                    "instructions": [
+                        "Marinate veggies and paneer, skewer and grill until smoky.",
+                        "Serve with mint chutney."
+                    ]
+                },
+                {
+                    "name": "Pulled Pork Slider (2 pcs)",
+                    "price": "₹300",
+                    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+                    "ingredients": [
+                        "Pulled pork",
+                        "Slider buns",
+                        "BBQ sauce and coleslaw"
+                    ],
+                    "instructions": [
+                        "Warm pulled pork in BBQ sauce, assemble on slider buns with coleslaw.",
+                        "Serve warm."
+                    ]
+                },
+                {
+                    "name": "Corn on the Cob (BBQ)",
+                    "price": "₹110",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Corn cobs",
+                        "Butter and chili-lime seasoning"
+                    ],
+                    "instructions": [
+                        "Grill corn and brush with butter and seasoning.",
+                        "Serve hot as a side."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Seafood Shack",
+            "cuisine": [
+                "Seafood",
+                "Coastal"
+            ],
+            "address": "29 MG Road, Bengaluru",
+            "rating": 4.5,
+            "deliveryTime": "30-40 mins",
+            "priceRange": "₹600 for two",
+            "image": "https://images.pexels.com/photos/1640773/pexels-photo-1640773.jpeg",
+            "menu": [
+                {
+                    "name": "Grilled Lemon Fish",
+                    "price": "₹420",
+                    "image": "https://images.pexels.com/photos/1640773/pexels-photo-1640773.jpeg",
+                    "ingredients": [
+                        "Fish fillet (200-250g)",
+                        "Lemon, garlic and herbs",
+                        "Olive oil and salt"
+                    ],
+                    "instructions": [
+                        "Marinate fish with lemon, garlic and herbs 15 minutes.",
+                        "Grill until cooked through and flaky.",
+                        "Serve with steamed veggies."
+                    ]
+                },
+                {
+                    "name": "Prawn Curry (Coastal)",
+                    "price": "₹380",
+                    "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+                    "ingredients": [
+                        "300g prawns",
+                        "Coconut milk",
+                        "Onion-tomato base",
+                        "Curry leaves and spices"
+                    ],
+                    "instructions": [
+                        "Sauté base, add spices and prawns; simmer with coconut milk until prawns are cooked.",
+                        "Serve with rice or appams."
+                    ]
+                },
+                {
+                    "name": "Fish Fry (Masala)",
+                    "price": "₹260",
+                    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+                    "ingredients": [
+                        "Fish pieces",
+                        "Masala paste (chili, turmeric)",
+                        "Rice flour and salt"
+                    ],
+                    "instructions": [
+                        "Coat fish in masala and rice flour, shallow fry until crisp.",
+                        "Serve with lemon and onion rings."
+                    ]
+                },
+                {
+                    "name": "Seafood Platter (2 pax)",
+                    "price": "₹780",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Prawns, fish, calamari",
+                        "Marinades and dips",
+                        "Lemon wedges"
+                    ],
+                    "instructions": [
+                        "Season and grill assorted seafood, arrange on platter with dips.",
+                        "Serve hot with sides."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Coffee Hub",
+            "cuisine": [
+                "Cafe",
+                "Snacks"
+            ],
+            "address": "90 Indiranagar, Bengaluru",
+            "rating": 4.6,
+            "deliveryTime": "10-20 mins",
+            "priceRange": "₹180 for two",
+            "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+            "menu": [
+                {
+                    "name": "Cappuccino (Regular)",
+                    "price": "₹120",
+                    "image": "https://images.pexels.com/photos/302902/pexels-photo-302902.jpeg",
+                    "ingredients": [
+                        "Espresso shot",
+                        "Steamed milk",
+                        "Milk foam"
+                    ],
+                    "instructions": [
+                        "Pull espresso, pour steamed milk and top with foam.",
+                        "Serve hot."
+                    ]
+                },
+                {
+                    "name": "Blueberry Muffin",
+                    "price": "₹90",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Flour, sugar, eggs",
+                        "Blueberries and baking powder",
+                        "Butter"
+                    ],
+                    "instructions": [
+                        "Mix batter, fold in blueberries and bake in muffin tin until golden.",
+                        "Cool slightly and serve."
+                    ]
+                },
+                {
+                    "name": "Grilled Sandwich (Cheese & Tomato)",
+                    "price": "₹140",
+                    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+                    "ingredients": [
+                        "Bread slices",
+                        "Cheese slices",
+                        "Tomato and butter"
+                    ],
+                    "instructions": [
+                        "Assemble sandwich with cheese and tomato, butter outside slices.",
+                        "Grill until golden and cheese melts; serve hot."
+                    ]
+                },
+                {
+                    "name": "Iced Latte",
+                    "price": "₹140",
+                    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+                    "ingredients": [
+                        "Espresso",
+                        "Cold milk",
+                        "Ice cubes",
+                        "Sweetener (optional)"
+                    ],
+                    "instructions": [
+                        "Add espresso to glass with ice, top with cold milk and sweetener if desired.",
+                        "Stir and serve."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Healthy Harvest",
+            "cuisine": [
+                "Organic",
+                "Healthy"
+            ],
+            "address": "7 Whitefield, Bengaluru",
+            "rating": 4.3,
+            "deliveryTime": "20-30 mins",
+            "priceRange": "₹260 for two",
+            "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+            "menu": [
+                {
+                    "name": "Grain Bowl (Millet & Greens)",
+                    "price": "₹210",
+                    "image": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg",
+                    "ingredients": [
+                        "Cooked millet",
+                        "Leafy greens",
+                        "Roasted seeds and nuts",
+                        "Lemon-tahini dressing"
+                    ],
+                    "instructions": [
+                        "Assemble millet and greens, top with seeds and nuts.",
+                        "Drizzle dressing and serve."
+                    ]
+                },
+                {
+                    "name": "Sprout Salad",
+                    "price": "₹150",
+                    "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+                    "ingredients": [
+                        "Mixed sprouts",
+                        "Tomato, cucumber",
+                        "Lemon and chaat masala"
+                    ],
+                    "instructions": [
+                        "Mix sprouts with chopped veggies and seasoning.",
+                        "Serve chilled as a healthy snack."
+                    ]
+                },
+                {
+                    "name": "Beet & Goat Cheese Wrap",
+                    "price": "₹190",
+                    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg",
+                    "ingredients": [
+                        "Whole wheat wrap",
+                        "Roasted beetroot",
+                        "Goat cheese",
+                        "Arugula"
+                    ],
+                    "instructions": [
+                        "Assemble roasted beet and goat cheese on wrap with arugula.",
+                        "Roll and serve."
+                    ]
+                },
+                {
+                    "name": "Almond & Banana Smoothie",
+                    "price": "₹140",
+                    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+                    "ingredients": [
+                        "Banana",
+                        "Almond milk",
+                        "Almond butter",
+                        "Honey (optional)"
+                    ],
+                    "instructions": [
+                        "Blend all ingredients until smooth and serve chilled."
+                    ]
+                }
+            ]
+        }
+    ]
+}

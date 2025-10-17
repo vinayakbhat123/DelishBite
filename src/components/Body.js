@@ -34,7 +34,7 @@ const Body = () => {
         </button>
       </div>
        <div className="res-filter mb-6 flex justify-center">
-        <input className="border-2 " value={loggedInUser} onChange={(e) => setName(e.target.value)}/>
+        <input className="border-2 " data-testid="searchInput" value={loggedInUser} onChange={(e) => setName(e.target.value)}/>
        </div>
 
       <div className="search-bar flex gap-3 mb-8 max-w-3xl mx-auto">
