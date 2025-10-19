@@ -17,7 +17,7 @@ fetchData();
       if (!data.ok) throw new Error("http not supporting ");
       const json = await data.json();
       const jsondata = json?.restaurants || []
-      console.log("jsonData",jsondata)
+      console.log("jsonData ",jsondata)
       setRestaurants(jsondata);
       setfilteredres(jsondata);
 
