@@ -45,15 +45,7 @@ const Header = () => {
           <li className="hover:text-blue-600 transition-all duration-300 transform hover:scale-110 cursor-pointer">
             <Link to="/grocery">Grocery</Link>
           </li>
-          <li className="text-base font-bold text-gray-700 bg-gray-100 px-3 py-1 rounded-full">
-            Status:{" "}
-            <span
-              className={`ml-1 font-extrabold ${
-                status ? "text-green-600" : "text-red-600"
-              }`}
-            >
-              {status ? "Online" : "Offline"}
-            </span>
+          <li className="text-base font-bold text-gray-700 bg-gray-100 px-3 py-1 rounded-full">Status:{" "} <span className={`ml-1 font-extrabold ${status ? "text-green-600" : "text-red-600"
           </li>
           <button
             className="ml-6 bg-gradient-to-r from-blue-600 to-blue-700 text-white px-6 py-2.5 rounded-full font-bold hover:from-blue-700 hover:to-blue-800 active:scale-95 transition-all duration-300 shadow-md hover:shadow-xl"
